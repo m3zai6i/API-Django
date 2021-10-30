@@ -1,7 +1,7 @@
 # API-Django
 ### Simple user authentication API using Django Rest Framework
 
-```
+```bash
 pip install django
 ```
 
@@ -15,4 +15,3 @@ django-admin startproject djapi
 python manage.py startapp auth
 ```
 
-> This is a text qoute
